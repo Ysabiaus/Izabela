@@ -1,2 +1,1 @@
-# Izabela
-My personal repository
+# About me
